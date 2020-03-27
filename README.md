@@ -1,5 +1,5 @@
 # Computer-vision-projects
-In this repo , I am adding my computer vision projects.
+In this repo , I am sharing my computer vision projects.
 #### Till now , I have added three projects and one capstone where every project has a report (pdf) as a very helpful documentation for the project, the code is modular so it will be easy to follow it :
 
 * Project 1: Generating hybrid images 
